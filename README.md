@@ -52,3 +52,13 @@ The system uses an ESP32 microcontroller to process sensor inputs and control LE
 
 ## Future Scope
 The project can be extended to multiple campus lighting zones with centralized monitoring, occupancy analytics, and intelligent energy management.
+
+## Hardware Prototype
+
+The following images show the hardware prototype of the Intelligent Campus Lighting System.
+
+### Hardware Setup — View 1
+![Campus Lighting Hardware View 1](images/hardware-top-view.jpg)
+
+### Hardware Setup — View 2
+![Campus Lighting Hardware View 2](images/hardware-side-view.jpg)
