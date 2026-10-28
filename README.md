@@ -51,5 +51,4 @@ The system uses an ESP32 microcontroller to process sensor inputs and control LE
 - `documentation/` — Project report and technical documentation
 
 ## Future Scope
-The project can be extended to multiple campus lighting zones with centralized monitoring, occupancy analytics, and intelligent energy management intelligencampus-lighting-system
-IoT-based smart campus lighting using ESP32, occupancy detection, adaptive brightness, and planned AI analytics.
+The project can be extended to multiple campus lighting zones with centralized monitoring, occupancy analytics, and intelligent energy management.
